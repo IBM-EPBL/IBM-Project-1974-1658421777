@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid;
+    border: 1px solid;
+    background-color: rgb(203, 37, 200);
+    color: white;
+  }
+
+  body {
+    background-color: lavender;
+}
+h1 {
+    color: red;
+    font-size: 3em;
+    font-family: Arial
+}
